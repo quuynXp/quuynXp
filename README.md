@@ -24,6 +24,7 @@ My name is Quyen and I'm a software developer. I'm from Ho Chi Minh City, Vietna
 <a href="https://github.com/quuynXp/quuynXp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quuynXp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
 <a href="https://github.com/quuynXp/quuynXp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=quuynXp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="quuynXp's GitHub Stats" />
 </a>
@@ -31,7 +32,6 @@ My name is Quyen and I'm a software developer. I'm from Ho Chi Minh City, Vietna
 <a href="https://github.com/quuynXp/Restaurant_Korean">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quuynXp&repo=Restaurant_Korean&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/quuynXp/Web_Fashion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quuynXp&repo=Web_Fashion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
