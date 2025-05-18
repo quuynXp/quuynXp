@@ -72,3 +72,7 @@
 <a href="https://github.com/quuynXp/Web_Fashion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quuynXp&repo=Web_Fashion&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/HuyNovie/doanwebsite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyNovie&repo=doanwebsite&theme=tokyonight" />
+</a>
