@@ -63,7 +63,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=quuynXp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="quuynXp's GitHub Stats" />
 </a>
 
+
+
+
 ## 📌 Featured Projects
+<a href="https://github.com/quuynXp/Patient-Management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quuynXp&repo=Patient-Management&theme=tokyonight" />
+</a>
 
 <a href="https://github.com/quuynXp/Restaurant_Korean">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quuynXp&repo=Restaurant_Korean&theme=tokyonight" />
