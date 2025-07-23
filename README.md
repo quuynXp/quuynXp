@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/quuynXp/quuynXp/main/readme_header.png "Header")](https://ngocquyen.dev/)
+[![Header](https://raw.githubusercontent.com/quuynXp/quuynXp/main/readme_header.png "Header")](https://thaingocquyen.vercel.app/)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+Java+and+Spring+Boot❤️;&center=true&size=24)
 
@@ -9,7 +9,7 @@
 - 🎓 I'm a Software Engineering student aiming to become a back-end developer.
 - 💻 Passionate about Java, Spring Boot, JavaScript (React.js), and databases like MySQL, PostgreSQL, MongoDB.
 - 🐳 Exploring Docker, Kubernetes and scalable systems.
-- 🌐 Visit my website: [ngocquyen.dev](https://ngocquyen.dev/)
+- 🌐 Visit my website: [thaingocquyen.vercel](https://thaingocquyen.vercel.app/)
 
 
 ## 🛠️ Languages & Tools
