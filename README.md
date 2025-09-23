@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/quuynXp/quuynXp/main/readme_header_new.png "Header")](https://thaingocquyen.vercel.app/)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Backend+Developer+in+progress❤️;&center=true&size=24)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Engineer+in+progress❤️;&center=true&size=24)
 
 # Hello, there! <img src="https://raw.githubusercontent.com/quuynXp/quuynXp/main/wave.gif" width="30px" height="30px" />
 
