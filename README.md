@@ -5,8 +5,6 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/quuynXp/quuynXp/main/wave.gif" width="30px" height="30px" />
 
 ## 🙋‍♂️ About Me
-- 🎓 **Bachelor of IT** @ Nguyen Tat Thanh University · GPA: 3.3/4.0 · 🏆 Scholarship 2023, 2024, 2025
-- 💼 **1+ year** of experience — Mobile Developer @ Estuary Solutions · Backend Developer @ CNPT Technology JSC
 - 🔥 Passionate about **Distributed Systems, Microservices, Clean Architecture & Real-time platforms**
 - 💻 Core stack: **Java / Spring Boot · React Native · Python FastAPI · Next.js**
 - 🌐 Portfolio: [thaingocquyen.id.vn](https://thaingocquyen.id.vn/)
@@ -52,24 +50,7 @@
 
 ---
 
-## 💼 Work Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| Oct 2025 – Jan 2026 | **Mobile Developer** | Estuary Solutions |
-| Jun – Sep 2025 | **Backend Developer** | CNPT Technology JSC |
-
-**@ Estuary Solutions** — Developed a Core Loyalty white-label app with React Native + MobX + Firebase. Optimized API flows with Axios interceptors and modular component architecture.
-
-**@ CNPT Technology JSC** — Built backend services for a Criminal Investigation System using Spring Boot, Kafka (Saga Pattern), gRPC, Spring Security + JWT/RSA. Reduced processing time by **40%** with Redis caching. Rated **Excellent** at internship completion.
-
----
-
 ## 🚀 Featured Projects
-
-<a href="https://github.com/quuynXp/Sports_Connect">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quuynXp&repo=Sports_Connect&theme=tokyonight" />
-</a>
 
 <a href="https://github.com/quuynXp/CRM_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quuynXp&repo=CRM_Project&theme=tokyonight" />
