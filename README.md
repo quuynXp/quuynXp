@@ -9,9 +9,9 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/quuynXp/quuynXp/main/wave.gif" width="30px" height="30px" />
 
 ## 🙋‍♂️ About Me
-- 🔥 Full-stack Software Engineer with strong expertise in backend microservices, mobile, and web development[cite: 2].
-- 💻 Core stack: **Java / Spring Boot · React Native · Python FastAPI · Next.js · PostgreSQL · Redis**[cite: 2]
-- 🌐 Portfolio: [thaingocquyen.id.vn](https://thaingocquyen.id.vn/)[cite: 2]
+- 🔥 Full-stack Software Engineer with strong expertise in backend microservices, mobile, and web development.
+- 💻 Core stack: **Java / Spring Boot · React Native · Python FastAPI · Next.js · PostgreSQL · Redis**
+- 🌐 Portfolio: [thaingocquyen.id.vn](https://thaingocquyen.id.vn/)
 
 ---
 
@@ -70,10 +70,10 @@
 ---
 
 ## 📌 Goals & Progress
-- [x] Mastered **Spring Boot backend architecture** — Kafka, Saga Pattern, Redis, OAuth2 / JWT (RSA)[cite: 2]
-- [x] Built **real-time & cross-platform apps** — WebRTC P2P video calls, React Native enterprise cores[cite: 2]
-- [x] Shipped **production-ready systems** — Docker, CI/CD with GitHub Actions, Firebase integration[cite: 2]
-- [x] Integrated **AI microservices** — FastAPI + Python asynchronous processing[cite: 2]
+- [x] Mastered **Spring Boot backend architecture** — Kafka, Saga Pattern, Redis, OAuth2 / JWT (RSA)
+- [x] Built **real-time & cross-platform apps** — WebRTC P2P video calls, React Native enterprise cores
+- [x] Shipped **production-ready systems** — Docker, CI/CD with GitHub Actions, Firebase integration
+- [x] Integrated **AI microservices** — FastAPI + Python asynchronous processing
 - [ ] Deepen advanced distributed caching & performance optimization
 - [ ] Contribute to open-source full-stack engineering projects
 - [ ] Explore high-performance system design at scale
