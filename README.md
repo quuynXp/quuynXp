@@ -4,14 +4,14 @@
   </a>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Backend-focused+Software+Developer;Building+scalable+systems+%F0%9F%9A%80;&center=true&size=24)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full-stack+Software+Engineer;Building+scalable+systems+%F0%9F%9A%80;&center=true&size=24)
 
 # Hello, there! <img src="https://raw.githubusercontent.com/quuynXp/quuynXp/main/wave.gif" width="30px" height="30px" />
 
 ## 🙋‍♂️ About Me
-- 🔥 Backend-focused Software Developer with experience in backend and mobile development, growing toward full-stack.
-- 💻 Core stack: **Java / Spring Boot · React Native · Python FastAPI · Next.js · PostgreSQL · Redis**
-- 🌐 Portfolio: [thaingocquyen.id.vn](https://thaingocquyen.id.vn/)
+- 🔥 Full-stack Software Engineer with strong expertise in backend microservices, mobile, and web development[cite: 2].
+- 💻 Core stack: **Java / Spring Boot · React Native · Python FastAPI · Next.js · PostgreSQL · Redis**[cite: 2]
+- 🌐 Portfolio: [thaingocquyen.id.vn](https://thaingocquyen.id.vn/)[cite: 2]
 
 ---
 
@@ -75,7 +75,7 @@
 - [x] Shipped **production-ready systems** — Docker, CI/CD with GitHub Actions, Firebase integration[cite: 2]
 - [x] Integrated **AI microservices** — FastAPI + Python asynchronous processing[cite: 2]
 - [ ] Deepen advanced distributed caching & performance optimization
-- [ ] Contribute to open-source backend engineering projects
+- [ ] Contribute to open-source full-stack engineering projects
 - [ ] Explore high-performance system design at scale
 
 > *"Make it work, make it right, make it fast."* – Kent Beck
